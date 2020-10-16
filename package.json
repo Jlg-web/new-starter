@@ -1,0 +1,15 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": { 
+    "sass" : "sass --watch ./assets/styles/main.scss:./assets/styles/style.css"
+   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.11"
+  }
+}

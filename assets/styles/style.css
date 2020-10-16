@@ -1,0 +1,12 @@
+/** Common */
+/** Layouts */
+h1 {
+  color: white;
+  margin: 0;
+  padding: 0;
+  background: lightsalmon;
+  padding: 2rem;
+  display: inline-flex;
+}
+
+/*# sourceMappingURL=style.css.map */
